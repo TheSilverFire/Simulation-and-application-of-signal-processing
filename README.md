@@ -10,6 +10,6 @@
 
 2.数据集介绍
 
-3.python算法
+3.python算法（附带已经训练好的模型，存于model文件夹中）
 
 参考资料：[Code for Webinar &#34;Signal Processing for Machine Learning&#34; - File Exchange - MATLAB Central (mathworks.cn)](https://ww2.mathworks.cn/matlabcentral/fileexchange/49893-code-for-webinar-signal-processing-for-machine-learning)
